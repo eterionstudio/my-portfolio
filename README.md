@@ -4,7 +4,7 @@ A professional freelance translation website built entirely in JavaScript, featu
 <img width="1439" height="766" alt="image" src="https://github.com/user-attachments/assets/2e51c91b-d597-49bc-8716-ed4191ac94ad" />
 
 A mobile language learning app built in React Native, featuring a clean tab-based navigation (Main, Dictionary, Grammar, Settings) with a minimalist, visually cohesive UI. The study session displays vocabulary cards with carefully selected, context-matching imagery and a semi-transparent glass box — tapping a word reveals an example sentence, audio pronunciation, and furigana (small phonetic guides above kanji characters). Furigana rendering was implemented from scratch in JavaScript, without external libraries.
-<img width="1920" height="1080" alt="mobile app" src="https://github.com/user-attachments/assets/0ca0a0c7-d046-4168-a50b-f5cdff05a37a" />
+<img width="1920" height="1080" alt="mobile app" src="https://github.com/user-attachments/assets/7ac2e202-1806-40e3-9eea-3be9fddbb062" />
 
 A minimalist Anki flashcard featuring a pastel color palette, elegant typography, and a carefully selected image whose colors blend seamlessly into the background — creating an effect where the photo feels native to the design rather than placed on top of it. The layout uses a glass morphism box (Apple-style frosted effect) that adds depth without visual noise.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae187ae9-a010-45ba-9cd3-ef8521a37a5b" />
