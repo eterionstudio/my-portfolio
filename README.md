@@ -8,7 +8,7 @@ The project demonstrates strong command of vanilla JavaScript, UX/UI intuition, 
 <img width="1496" height="766" alt="image" src="https://github.com/user-attachments/assets/ce10e869-2118-4eac-822e-3b7a5005b2ca" />
 <img width="1920" height="1080" alt="dictionary webpage" src="https://github.com/user-attachments/assets/e7b00637-cc53-448a-9d39-49d903fdacde" />
 <img width="1483" height="766" alt="image" src="https://github.com/user-attachments/assets/866f14b0-be68-40a1-bd28-b6cf33a98070" />
----
+***
 A professional freelance translation website built entirely in JavaScript, featuring an elegant, extravagant glassmorphism UI inspired by Apple's design language. The site includes dedicated sections for services, portfolio, and about — with a fully functional contact form implemented in vanilla JavaScript. Subtle UX touches like smooth hover highlights and gentle price card scaling demonstrate an intuitive understanding of user interaction design. Professional social links are integrated seamlessly within frosted glass components, maintaining visual consistency throughout.
 <img width="1453" height="766" alt="image" src="https://github.com/user-attachments/assets/38cff955-d66e-4767-8219-92a1a261027a" />
 <img width="1439" height="766" alt="image" src="https://github.com/user-attachments/assets/2e51c91b-d597-49bc-8716-ed4191ac94ad" />
