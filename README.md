@@ -2,6 +2,7 @@
 
 
 A mobile language learning app built in React Native, featuring a clean tab-based navigation (Main, Dictionary, Grammar, Settings) with a minimalist, visually cohesive UI.
+
 <img width="354" height="766" alt="image" src="https://github.com/user-attachments/assets/7716b01c-77d8-4c45-bf63-4b4caa16fc86" />
 
 The study session displays vocabulary cards with carefully selected, context-matching imagery and a semi-transparent glass box — tapping a word reveals an example sentence, audio pronunciation, and furigana (small phonetic guides above kanji characters). Furigana rendering was implemented from scratch in JavaScript, without external libraries.
