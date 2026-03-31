@@ -1,10 +1,7 @@
 # my-portfolio
-
-
+A professional freelance translation website built entirely in JavaScript, featuring an elegant, extravagant glassmorphism UI inspired by Apple's design language. The site includes dedicated sections for services, portfolio, and about — with a fully functional contact form implemented in vanilla JavaScript. Subtle UX touches like smooth hover highlights and gentle price card scaling demonstrate an intuitive understanding of user interaction design. Professional social links are integrated seamlessly within frosted glass components, maintaining visual consistency throughout.
 <img width="1453" height="766" alt="image" src="https://github.com/user-attachments/assets/38cff955-d66e-4767-8219-92a1a261027a" />
 <img width="1439" height="766" alt="image" src="https://github.com/user-attachments/assets/2e51c91b-d597-49bc-8716-ed4191ac94ad" />
-
-
 
 A mobile language learning app built in React Native, featuring a clean tab-based navigation (Main, Dictionary, Grammar, Settings) with a minimalist, visually cohesive UI. The study session displays vocabulary cards with carefully selected, context-matching imagery and a semi-transparent glass box — tapping a word reveals an example sentence, audio pronunciation, and furigana (small phonetic guides above kanji characters). Furigana rendering was implemented from scratch in JavaScript, without external libraries.
 <img width="1920" height="1080" alt="mobile app" src="https://github.com/user-attachments/assets/0ca0a0c7-d046-4168-a50b-f5cdff05a37a" />
